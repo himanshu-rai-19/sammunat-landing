@@ -1,16 +1,77 @@
-# React + Vite
+# Sammunat – Animated Landing Page 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and animated landing page built using **React.js** and **Framer Motion** as part of the internship assignment for **Sammunat (USA)**.
 
-Currently, two official plugins are available:
+The goal of this project was to design a clean, user-friendly landing page with smooth animations, clear structure, and strong visual appeal.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🔗 Live Demo
+👉 https://your-vercel-link.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚡ Modern hero section with animated text and background effects  
+- 🎨 Smooth hover and scroll-based animations using Framer Motion  
+- 📱 Fully responsive design (mobile, tablet, desktop)  
+- 🧩 Component-based React architecture  
+- ✨ Interactive feature cards with micro-interactions  
+- 🚀 Fast performance using Vite  
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js** – UI development  
+- **Vite** – Fast development & build tool  
+- **Framer Motion** – Animations and transitions  
+- **CSS3** – Styling and layout  
+- **Git & GitHub** – Version control  
+
+---
+
+## 📂 Project Structure
+sammunat-landing/
+├── src/
+│ ├── components/
+│ │ ├── Navbar.jsx
+│ │ ├── Hero.jsx
+│ │ ├── Features.jsx
+│ │ ├── CTA.jsx
+│ │ └── Footer.jsx
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+├── index.html
+├── package.json
+└── vite.config.js
+
+---
+
+## ⚙️ Getting Started (Local Setup)
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/himanshu-rai-19/sammunat-landing.git
+
+# Navigate to the project
+cd sammunat-landing
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+👤 Author
+
+Himanshu
+Frontend Developer | React Enthusiast
+
+GitHub: https://github.com/himanshu-rai-19
+
+LinkedIn: https://www.linkedin.com/in/himanshu-rai-72233a342
